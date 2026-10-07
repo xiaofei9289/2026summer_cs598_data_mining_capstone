@@ -32,7 +32,7 @@
   {
     "file": "notebooks/task6_student_v21.ipynb",
     "source_sha256": "c6d18a52a3172ae33429489f111c1ba9cdcb584f405a4e517379bff0b29f4822",
-    "release_sha256": "92ae11aa960a934d36236e2c84749dbd23e34ef1f06616174d497495e846aabd",
-    "transformation": "Outputs, execution counts, and machine metadata removed; cell sources unchanged."
+    "release_sha256": "f6fd3905f13bffe0fb7235b289dae1df769df3cf9294c32999e8508ee756c7f6",
+    "transformation": "Outputs, execution counts, and machine metadata removed; cell sources unchanged. Added three missing cell IDs for nbformat 4.5 compatibility."
   }
 ]
