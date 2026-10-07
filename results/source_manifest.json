@@ -1,0 +1,19 @@
+{
+  "audited_on": "2026-10-07",
+  "source": "Completed local project snapshot; matching public code release not established by this manifest.",
+  "artifact_hashes": [
+    {
+      "source_relative_path": "task01 submitted/review_subset.csv",
+      "sha256": "dc69036bbd5c46aa2730815710f3ee14a58100e67e7002486a9d2f5602d886fb"
+    },
+    {
+      "source_relative_path": "artifacts/task4/dish_mention_evidence.csv",
+      "sha256": "a9451f6f9a7ac22339f91c006be7b3ac33c5c39895a9ec06cb88add6fe5f9989"
+    },
+    {
+      "source_relative_path": "artifacts/task6/model_comparison_results.csv",
+      "sha256": "14bf336605c6951fe530d3fbe71a09df9fa5c37ce1083a619592a385a9784ee4"
+    }
+  ],
+  "verification": "Saved-result audit; no new GPU training or kernel tests."
+}

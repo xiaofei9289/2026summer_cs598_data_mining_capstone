@@ -1,0 +1,38 @@
+[
+  {
+    "file": "notebooks/task1_student_v20.ipynb",
+    "source_sha256": "b76c41e7674a7e1d7cfb18a4d7e5d21843a483cba3bf811493b99006e0f813de",
+    "release_sha256": "d264c9e3aade69a99c8a5252b62f0dfc8b34f4bddd046adb5fbf14947c482ac5",
+    "transformation": "Outputs, execution counts, and machine metadata removed; cell sources unchanged."
+  },
+  {
+    "file": "notebooks/task2_student_v20.ipynb",
+    "source_sha256": "5a0b543cfa2215538724d82842ed6844b394b16cd52c872072cc44ad537bfa81",
+    "release_sha256": "5a2279790ed092aaed4cd027142b47f2b509670678505e2ad0de25e9b1fc69d5",
+    "transformation": "Outputs, execution counts, and machine metadata removed; cell sources unchanged."
+  },
+  {
+    "file": "notebooks/task3_student_v21.ipynb",
+    "source_sha256": "ba30f3cd3765cb65722afb4881cde56ff9132b352bd62127fcfd91cb11a68fce",
+    "release_sha256": "843918401d1e3ea6c23fded3d3c23b0e88f8e58660cd7040b1466d75ae46d22c",
+    "transformation": "Outputs, execution counts, and machine metadata removed; cell sources unchanged."
+  },
+  {
+    "file": "notebooks/task4_student_v21.ipynb",
+    "source_sha256": "4e5bd82a3a097c8187ae634d2ec5d2e9e3cf9696d6e6c53f685877a591f5c001",
+    "release_sha256": "a8e72f652629f1a75f9bb304db781dc5a788361cecc41af265632ed315332bc5",
+    "transformation": "Outputs, execution counts, and machine metadata removed; cell sources unchanged."
+  },
+  {
+    "file": "notebooks/task5_student_v21.ipynb",
+    "source_sha256": "123c5411835bba8774c59a28cb2aa3aff780ecd95b3ec60745aa415ac7a1ab17",
+    "release_sha256": "d1d95bcdf7318f2b75d66ca1dff3fb7aefe6bc83e128669480294b1e774fe4e6",
+    "transformation": "Outputs, execution counts, and machine metadata removed; cell sources unchanged."
+  },
+  {
+    "file": "notebooks/task6_student_v21.ipynb",
+    "source_sha256": "c6d18a52a3172ae33429489f111c1ba9cdcb584f405a4e517379bff0b29f4822",
+    "release_sha256": "92ae11aa960a934d36236e2c84749dbd23e34ef1f06616174d497495e846aabd",
+    "transformation": "Outputs, execution counts, and machine metadata removed; cell sources unchanged."
+  }
+]
